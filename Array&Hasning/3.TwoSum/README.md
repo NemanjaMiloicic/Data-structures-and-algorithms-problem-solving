@@ -21,6 +21,7 @@ Input: nums = [4,5,6], target = 10
 Output: [0,2]
  ```
 Example 3:
+ ```
 Input: nums = [5,5], target = 10
 
 Output: [0,1]
